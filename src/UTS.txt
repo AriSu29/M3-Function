@@ -1,0 +1,15 @@
+Keterangan:
+𝑥̅ = rerata atau mean
+n = banyaknya data
+∑ x = jumlah seluruh data
+
+Median (Me) atau kuartil adalah nilai tengah dari sekumpulan data setelah 
+diurutkan dari data yang terkecil sampai data terbesar, maupun sebaliknya. 
+Apabila suatu data mempunyai median, maka mediannya tunggal.
+
+
+Modus adalah data yang paling sering muncul. Modus merupakan ukuran
+pemusatan untuk uenyatakan fenomena yang paling banyak terjadi.
+Sekumpulan data yang diperoleh, memungkinkan untuk memiliki nilai modus 
+yang tidak tunggal atau mungkin juga tidak memilikinya.
+
